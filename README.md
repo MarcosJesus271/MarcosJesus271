@@ -1,11 +1,10 @@
-## Olá, eu sou Marcos Jesus! Bem-vindo(a) ao meu Github! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">😆
+## Olá, Bem-vindo(a) ao meu Github! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">😆
 
-Olá, Sou chamo Marcos Jesus e sou completamente apaixonado pela tecnologia.
-Fico feliz que tenha vindo até aqui, na minha page do GitHub! Sou uma pessoa cheia de ideias, quanto mais aprendo criam-se novas possibilidades em meus pensamentos.
+Me chamo <strong>Marcos Jesus</strong> e sou completamente apaixonado pela tecnologia!
 
-Me dedico cada dia para trazer soluções reais para os meus códigos de forma clean e fácil compreensão para eventos futuros.
+Fico feliz que tenha vindo até aqui, na minha page do GitHub!
 
-Meu objetivo é utilizar meu conhecimento para evoluir com meus colegas de trabalho e vencermos grandes desafios juntos.
+Sou uma pessoa cheia de ideias, quanto mais aprendo criam-se novas possibilidades em meus pensamentos. Me dedico cada dia para trazer soluções reais para os meus códigos de forma clean e fácil compreensão para eventos futuros. Meu objetivo é utilizar meu conhecimento para evoluir com meus colegas de trabalho e vencermos grandes desafios juntos.
 
 Estou aberto a aprender novas tecnologias e adquirir experiência no mercado.
 
@@ -16,7 +15,8 @@ marcosjesus.href@outlook.com
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MarcosJesus271)](https://github.com/MarcosJesus271)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-jesus271/)](https://www.linkedin.com/in/marcos-jesus271/)
 [![Outlook Badge](https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white&link=mailto:marcosjesus.href@outlook.com)](mailto:marcosjesus.href@outlook.com)
-- 📌 Programador fullstack .
+- 📌 Programador Back-end.
+- 📌 Programador fullstack.
 - 📚 Estudying English.
 
 ---
